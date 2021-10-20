@@ -1,1 +1,1 @@
-# odin-recipes
+This project is practicing file structure and lists in HTML5. 
